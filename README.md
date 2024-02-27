@@ -16,6 +16,6 @@ Selamat datang di profil GitHub saya! Saya seorang Mahasiswa yang belajar di bid
 Untuk kolaborasi atau pertanyaan, jangan ragu untuk menghubungi saya melalui:
 
 - **Email:** [luthfi.satrio.tif423@polban.ac.id](mailto:luthfi.satrio.tif423@polban.ac.id)
-- **LinkedIn:** [linkedin.com/in/yourprofile]((https://www.linkedin.com/in/luthfisatriow-120305/))
+- **LinkedIn:** [Luthfi Satrio](https://www.linkedin.com/in/luthfisatriow-120305/)
 
 Terima kasih telah mengunjungi profil saya. Mari kita kolaborasi untuk membuat perubahan yang berarti melalui kekuatan teknologi!
