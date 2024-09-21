@@ -2,7 +2,7 @@
 
 Selamat datang di profil GitHub saya! Saya seorang Mahasiswa yang belajar di bidang Teknik Informatika. Dengan dedikasi saya yang kuat dalam bidang ini, saya berdedikasi untuk mengembangkan solusi inovatif dan menerapkan teknik analitik canggih untuk menyelesaikan masalah kompleks dalam dunia nyata.
 
-## Kepakaran
+## Keahlian
 
 - **Web Developer** Pengalaman dalam pembuatan Website Statis/DInamis melalui framework PHP Laravel
 - **Desktop Programming** Pengalaman dalam mempelajari Bahasa C dan Java
